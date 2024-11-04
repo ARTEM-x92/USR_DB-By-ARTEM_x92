@@ -1,4 +1,5 @@
-# NGPSA-By-ARTEM_x92
+# NGPSA-By-ARTEM_x92 
+## !! BETA !! This Can't Be Open Source, Sorry... ...
 
 ## EN=US
 ### Non-Governmental Agency for Personal Security
