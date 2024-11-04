@@ -2,7 +2,7 @@
 ## !! BETA !! This Can't Be Open Source, Sorry... ...
 
 ## EN=US
-### Non-Governmental Agency for Personal Security
+### Non-Governmental Personal Security Agency
 
 
 ## RU-RU
