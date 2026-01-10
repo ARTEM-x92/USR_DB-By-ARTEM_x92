@@ -1,4 +1,4 @@
-# NGPSA-By-ARTEM_x92 
+# NG-PSA_By-ARTEM_x92 
 ## !! BETA !! This Can't Be Open Source, Sorry... ...
 ## On The Release Version Added The Ability To Enter Large Amounts Of Data, And Also Added New Tables And Fields
 
